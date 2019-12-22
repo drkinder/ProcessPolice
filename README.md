@@ -1,4 +1,4 @@
-# ProcessPolice
+# The Process Police
 Python program for regulating time spent playing video games.
 
 ![alt text](github/login.gif)
